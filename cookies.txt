@@ -1,0 +1,9 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.youtube.com	TRUE	/	TRUE	1803544336	VISITOR_PRIVACY_METADATA	CgJQVBIiEh4SHAsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJicgDQ%3D%3D
+.youtube.com	TRUE	/	TRUE	1822552338	PREF	tz=Europe.Lisbon&f6=40000000&f7=100
+.youtube.com	TRUE	/	TRUE	1822120329	SOCS	CAISNQgDEitib3FfaWRlbnRpdHlmcm9udGVuZHVpc2VydmVyXzIwMjYwODI2LjEwX3AwGgJlbiADGgYIgMLI1AY
+.youtube.com	TRUE	/	TRUE	1803544336	VISITOR_INFO1_LIVE	17cwB7_8jaE
+.youtube.com	TRUE	/	TRUE	1803544329	__Secure-YNID	21.YT=otSMmd_3lXgkFELHhsFcT3WxuO4r76DxwevyMOdhywvgIrHqVgR8cqjgqIL30kAgwdNB0KtWDN83JDGL_Qdds2U9n_y9V7F3XpoQLzoHtuN2d5u3EE6efbYGB0TomHHOV8sYf8dXDdDa0gvhw1FZ_bNQbrxO9UKAGvzaP3wfJJpURyXJCatMTbf-Tiu1cS7YNFS2nvwZEW0mQ8NA6HOwMaidwfjsa011F5q5Ihtpll1HL7UqUiz0_j7CIbmb3jAIYK-jzSIEQaUQllfF6JNsdfmfWUA7afOUAMSBu67c_x9ZTjAP_kKZvVIOI3naX1Poi5ExP3g7_S0HV4pd8_hvVg
